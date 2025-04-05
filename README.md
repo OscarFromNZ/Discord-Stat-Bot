@@ -1,4 +1,4 @@
-# Today in Disord
+# Today in Discord - The perfect server stats bot
 add me @ https://discord.me/server-stats-bot
 
 ## How to use?
